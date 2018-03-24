@@ -103,11 +103,43 @@ $data = "[
                     <p class="dropcap">
                        Our meeting rooms catered up to 8 persons, providing an alternative, funky and relaxing option for brainstorm and team meeting sessions. 
                     </p>
-                    <!--<p><a href="#" class="btn btn-theme-bg">Read More</a></p><hr>-->
                 </div>
                 <div class="col-md-6">
                    <div class="embed-responsive embed-responsive-16by9">
                             <img class="lazy" data-src="img/kedasi/about/rsz_img_9369.jpg" style="width:600px"></iframe>
+                        </div> 
+                </div>
+            </div>
+            <div class="divide40"></div>
+
+            <div class="row">               
+                <div class="col-md-6">
+                   <div class="embed-responsive embed-responsive-16by9">
+                            <img class="lazy" data-src="img/kedasi/about/outdoor.jpg" style="width:500px"></iframe>
+                        </div> 
+                </div>
+                <div class="col-md-6">
+                    <h3 class="heading">Event Space</h3> 
+                    <p class="dropcap">
+                    Lorem ipsum doler si amet lorem ipsum Lorem ipsum doler si amet lorem ipsum
+                    Lorem ipsum doler si amet lorem ipsum Lorem ipsum doler si amet lorem ipsum
+                    </p>
+                    
+                </div>
+            </div>
+            <div class="divide40"></div>
+               
+            <div class="row">               
+                <div class="col-md-6">
+                    <h3 class="heading">Auditorium</h3> 
+                    <p class="dropcap">
+                    Lorem ipsum doler si amet lorem ipsum Lorem ipsum doler si amet lorem ipsum
+                    Lorem ipsum doler si amet lorem ipsum Lorem ipsum doler si amet lorem ipsum
+                    </p>
+                </div>
+                <div class="col-md-6">
+                   <div class="embed-responsive embed-responsive-16by9">
+                            <img class="lazy" data-src="img/kedasi/about/games.jpg" style="width:600px"></iframe>
                         </div> 
                 </div>
             </div>

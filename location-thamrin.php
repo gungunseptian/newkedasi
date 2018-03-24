@@ -14,16 +14,18 @@
  <section class="main-slider">
             <div class="flexslider">
                 <ul class="slides">
-                    <li style="background: url(img/kedasi/rsz_img_9337.jpg)">
+                    <li style="background: url(img/kedasi/rsz_1rsz_shared.jpg)">
                         <div class="slider-text">
                             <div class="inner">
-                                <div class="container text-center">
+                               <div class="container text-center">
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-2">
-                                        <h1>Location Tanjung Duren</h1>
+                                            <h1>Location Thamrin</h1>
+<!--                                            <p>Quisque ligulas ipsum, euismod atras vulputate iltricies etri elit. Lorem ipsum dolor sit amet, consectetur.</p>
+                                            <a href="#" class="btn btn-lg border-white">Learn More</a>-->
                                         </div>
                                     </div>
-                                </div>
+                                </div> 
                             </div>
                         </div> 
                     </li>
@@ -38,9 +40,9 @@
 
             <div class="row">  
                 <div class="col-md-12" style="text-align:center">
-                    <h3>KEDASI | TANJUNG DUREN</h3>
+                    <h3>KEDASI | THAMRIN</h3>
                     <h4>
-Jl. Tanjung Duren Timur 6 No.2A, RT.7/RW.3, Tj. Duren Selatan, Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470</h4>
+Jl. Cempaka No.24, RT.6/RW.8, Kota Bambu Utara, <br>Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota <br>Jakarta 11420</h4>
                 </div>
             </div>
 
@@ -49,7 +51,7 @@ Jl. Tanjung Duren Timur 6 No.2A, RT.7/RW.3, Tj. Duren Selatan, Grogol petamburan
         <section class="main-slider">
             <div class="flexslider">
                 <ul class="slides">
-                    <li style="background: url(img/kedasi/rsz_img_9334.jpg)">
+                    <li style="background: url(img/kedasi/about/meeting.jpg)">
                         <div class="slider-text">
                             <div class="inner">
                                  <div class="container text-center">
@@ -64,6 +66,7 @@ Jl. Tanjung Duren Timur 6 No.2A, RT.7/RW.3, Tj. Duren Selatan, Grogol petamburan
                             </div>
                         </div> 
                     </li>
+                    
                 </ul>
             </div>
         </section>
@@ -100,8 +103,8 @@ Jl. Tanjung Duren Timur 6 No.2A, RT.7/RW.3, Tj. Duren Selatan, Grogol petamburan
                                  <div class="container text-center">
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-2">
-                                            <h1>Private Offices starting at $599/mo</h1>
-                                           <a href="private-offices-tanjung-duren" class="btn btn-lg border-white">CHECK OUT OUR PRIVATE OFFICES</a> 
+                                            <h1>Meeting Rooms for rent by the hour or day</h1>
+                                           <a href="meeting-rooms" class="btn btn-lg border-white">BOOK A MEETING ROOM</a> 
                                         </div>
                                     </div>
                                 </div> 
@@ -123,8 +126,8 @@ Jl. Tanjung Duren Timur 6 No.2A, RT.7/RW.3, Tj. Duren Selatan, Grogol petamburan
                                  <div class="container text-center">
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-2">
-                                            <h1>Meeting Rooms for rent by the hour or day</h1>
-                                            <a href="meeting-rooms" class="btn btn-lg border-white">BOOK A MEETING ROOM</a> 
+                                            <h1>Beautiful Event Space</h1>
+                                            <a href="events-venue" class="btn btn-lg border-white">LEARN MORE ABOUT HOSTING AN EVENT</a> 
                                             </div>
                                     </div>
                                 </div> 
@@ -136,12 +139,17 @@ Jl. Tanjung Duren Timur 6 No.2A, RT.7/RW.3, Tj. Duren Selatan, Grogol petamburan
             </div>
         </section>
 
-            <div class="divide60"></div>
-            <div class="row">               
+        <div class="divide40"></div>
+
+       
+        <!-- maps -->
+        <div class="row">               
                 <div class="col-md-12">
                     <div id="map-canvas" style="width:100%;height: 400px;"></div> 
                 </div>
-            </div>
+         </div>
+
+     
 
    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=true&key=AIzaSyCaX83GuVBwH6xI8czhg75WfB-u0O-avLk"></script>
         <script type="text/javascript">

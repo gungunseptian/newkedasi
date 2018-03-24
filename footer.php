@@ -44,13 +44,48 @@
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.6/jquery.lazy.plugins.min.js"></script>
    
      <script>
-        $(function() {
+    $(function() {
         $('.lazy').Lazy();
         
         $('#myModal').modal('show')
+
+        $( ".tomang" ).hide()
+        $( ".thamrin" ).hide()
+        $( ".tanjung" ).hide()
         
     });
     
+    var clicks = 0;
+    $( ".tomang_button" ).click(function() {
+        
+      $( ".tomang" ).slideDown( "slow", function() {
+        
+        $( ".tanjung" ).hide()
+        $( ".thamrin" ).hide()
+
+      });
+    });
+    
+    var clicks = 0;
+    $( ".tanjung_button" ).click(function() {
+      $( ".tanjung" ).slideDown( "slow", function() {
+        
+        $( ".tomang" ).hide()
+        $( ".thamrin" ).hide()
+
+      });
+    });
+
+    var clicks = 0;
+    $( ".thamrin_button" ).click(function() {
+      $( ".thamrin" ).slideDown( "slow", function() {
+        
+        $( ".tanjung" ).hide()
+        $( ".tomang" ).hide()
+
+      });
+    });
+
     
      </script>
 

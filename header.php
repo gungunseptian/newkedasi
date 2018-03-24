@@ -47,9 +47,9 @@
     </head>
     <body>
         
-         <!--------------------------------------------------
+         <!--
     Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
-    --------------------------------------------------->
+     -->
     <script type="text/javascript">
     /* <![CDATA[ */
     var google_conversion_id = 825139782;
@@ -70,7 +70,7 @@
             <div class="container">
                 <div class="top-bar">
                     <div class="pull-left">
-                    +62 21 2940 1110 (Tomang) | +62 21 292 0099 6 ( Tanjung Duren) | ask@kedasi.co.id
+                    +6221 2940 1110 (Tomang) | +6221 2920 0996 ( Tanjung Duren) | +6221 2139 2641 ( Thamrin ) | ask@kedasi.co.id
                     </div>
                     <div class="pull-right">
                         <ul class="list-inline social-1">
@@ -115,6 +115,7 @@
                             <ul class="dropdown-menu" role="menu">
                                 <li><a href="location-tomang">Tomang</a></li>
                                 <li><a href="location-tanjung-duren">Tanjung Duren</a></li>
+                                <li><a href="location-thamrin">Thamrin</a></li>
                             </ul>
                         </li><!--.dropdown-->
 
@@ -125,6 +126,9 @@
                                 <li><a href="private-offices-tanjung-duren">Tanjung Duren</a></li>
                             </ul>
                         </li><!--.dropdown-->
+
+                        <li ><a href="meeting-rooms">Meeting Rooms</a></li>
+                        <li ><a href="events-venue">Events & Venue</a></li>
 
                          <li class="dropdown">
                             <a href="contact-tomang">Contact Us </a>

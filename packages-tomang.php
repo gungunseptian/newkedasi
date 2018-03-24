@@ -8,12 +8,34 @@
 
 <div class="container">
 
+<section class="main-slider">
+            <div class="flexslider">
+                <ul class="slides">
+                    <li class="lazy" data-src="img/kedasi/about.jpg">
+                    <!--<li style="background: url(img/kedasi/about.jpg);background-size:1400px;"> -->
+                        <div class="slider-text">
+                            <div class="inner">
+                                <!-- <div class="container text-center">
+                                    <div class="row">
+                                        <div class="col-md-8 col-md-offset-2">
+                                            <h1>Welcome to narani</h1>
+                                            <p>Quisque ligulas ipsum, euismod atras vulputate iltricies etri elit. Lorem ipsum dolor sit amet, consectetur.</p>
+                                            <a href="#" class="btn btn-lg border-white">Learn More</a>
+                                        </div>
+                                    </div>
+                                </div> -->
+                            </div>
+                        </div> 
+                    </li>
+                </ul>
+            </div>
+        </section>
 
     <section class="bread-wrap">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
-                        <h4>Packages (Tomang & Tanjung Duren)</h4>
+                        <h4>Packages (Tomang, Tanjung Duren, Thamrin)</h4>
                     </div>
                     <div class="col-sm-6 hidden-xs text-right">
                         <ol class="breadcrumb">
@@ -191,7 +213,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="panel panel-default">
+                     <!--   <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
@@ -215,8 +237,8 @@
                                                     <p>FFree meeting room</p>
                                                     <p>Up to 6 persons space</p>
                                                 </div>
-                                            </div><!--narani-pricing-->
-                                        </div><!--pricing col-->  
+                                            </div>
+                                        </div>
 
                                          <div class="col-md-4 margin20">
                                             <div class="naran-pricing wow animated fadeInUp">
@@ -234,8 +256,8 @@
                                                     <p>Catering available for additional charge</p>
                                                     <p>May Bring outside food</p>
                                                 </div>
-                                            </div><!--narani-pricing-->
-                                        </div><!--pricing col-->   
+                                            </div>
+                                        </div>  
                                         
                                          <div class="col-md-4 margin20">
                                             <div class="naran-pricing wow animated fadeInUp">
@@ -253,10 +275,10 @@
                                                     <p>Catering available for additional charge</p>
                                                     <p>May Bring outside food</p>
                                                 </div>
-                                            </div><!--narani-pricing-->
-                                        </div><!--pricing col-->   
+                                            </div>
+                                        </div>
 
-                                    </div>
+                                    </div> -->
 
                                    
 
