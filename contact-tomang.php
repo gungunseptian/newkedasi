@@ -48,8 +48,8 @@
 
         <div class="col-md-4 margin20">
               <h3>Thamrin</h3> 
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.6175087271436!2d106.78532671419312!3d-6.181919362292673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f6f6bb200f3f%3A0x3914a0e42e121aed!2sKEDASI+Co-Working+Space+Tanjung+Duren!5e0!3m2!1sen!2sid!4v1513653138410" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>              
-              <p>Jl. Tanjung Duren Timur 6 No.2A, RT.7/RW.3, Tj. Duren Sel., Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470</p>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15866.0172776933!2d106.80696075968442!3d-6.196995495453052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMTEnNDkuMyJTIDEwNsKwNDgnNTYuNyJF!5e0!3m2!1sid!2sid!4v1521982036702" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>              
+              <p>Graha Niaga Thamrin Level 6 <br>Jalan KH. Mas Mansyur<br>Jakarta Pusat 10230</p>
         </div>
 
      </div>

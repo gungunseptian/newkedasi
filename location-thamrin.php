@@ -42,7 +42,7 @@
                 <div class="col-md-12" style="text-align:center">
                     <h3>KEDASI | THAMRIN</h3>
                     <h4>
-Jl. Cempaka No.24, RT.6/RW.8, Kota Bambu Utara, <br>Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota <br>Jakarta 11420</h4>
+Graha Niaga Thamrin Level 6 <br>Jalan KH. Mas Mansyur<br>Jakarta Pusat 10230</h4>
                 </div>
             </div>
 
@@ -158,7 +158,7 @@ Jl. Cempaka No.24, RT.6/RW.8, Kota Bambu Utara, <br>Palmerah, Kota Jakarta Barat
             var marker;
 
             function initialize() {
-                myLatlng = new google.maps.LatLng(-6.18184,106.79964);
+                myLatlng = new google.maps.LatLng(-6.1969955,106.8069608);
 
                 var mapOptions = {
                     zoom: 13,
@@ -169,7 +169,7 @@ Jl. Cempaka No.24, RT.6/RW.8, Kota Bambu Utara, <br>Palmerah, Kota Jakarta Barat
                 };
                 map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
-                var contentString = '<p style="line-height: 20px;"><strong>KEDASI Co-Working Space</strong></p><p>Jl. Cempaka No.24, RT.6/RW.8, Kota Bambu Utara, Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 1142</p>';
+                var contentString = '<p style="line-height: 20px;"><strong>KEDASI Co-Working Space</strong></p><p>Graha Niaga Thamrin Level 6 <br>Jalan KH. Mas Mansyur<br>Jakarta Pusat 10230</p>';
 
                 var infowindow = new google.maps.InfoWindow({
                     content: contentString
